@@ -5,6 +5,9 @@ so we introduce soup buddy, which simply attaches to your laptop, if soup sees y
 
 <img width="682" height="955" alt="image" src="https://github.com/user-attachments/assets/eb6235ea-dc9b-47fb-9576-3854f2e1c818" />
 
+link to the zine: https://www.figma.com/design/fPi6nmKOqqFDYuisPBND3G/Untitled?node-id=3-2&t=jTowqN186vkE4hTw-0
+- please change with updated images.
+
 - todo: add updated zine
 - also with the zine, need to add images of the finished project + wiring or a 3d model with the screen added.
 
