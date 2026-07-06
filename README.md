@@ -18,12 +18,11 @@ TODO: finish this, but yeah only when the whole project is actually assembled!
 
 ## pictures
 
-some pictures here....
 <img width="1685" height="744" alt="image" src="https://github.com/user-attachments/assets/1502ff50-eba9-4df5-9537-d8a78847cf34" />
 <img width="3060" height="4080" alt="image" src="https://github.com/user-attachments/assets/a2c26156-7c28-4c5a-b84f-731ec5b2855a" />
 
 
-- upclose of the wiring
+- todo: 0upclose of the wiring
 
 ## schematic
 
