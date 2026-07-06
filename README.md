@@ -5,8 +5,8 @@ so we introduce soup buddy, which simply attaches to your laptop, if soup sees y
 
 <img width="682" height="955" alt="image" src="https://github.com/user-attachments/assets/eb6235ea-dc9b-47fb-9576-3854f2e1c818" />
 
-link to the zine: https://www.figma.com/design/fPi6nmKOqqFDYuisPBND3G/Untitled?node-id=3-2&t=jTowqN186vkE4hTw-0
-- please change with updated images.
+link to the zine: https://www.figma.com/design/fPi6nmKOqqFDYuisPBND3G/Untitled?node-id=3-2&t=jTowqN186vkE4hTw-1
+- TODO: please change with updated images.
 
 - todo: add updated zine
 - also with the zine, need to add images of the finished project + wiring or a 3d model with the screen added.
@@ -14,12 +14,14 @@ link to the zine: https://www.figma.com/design/fPi6nmKOqqFDYuisPBND3G/Untitled?n
 ## demo here
 https://demovideo.com/67
 
-TODO: finish this...
+TODO: finish this, but yeah only when the whole project is actually assembled!
 
 ## pictures
 
 some pictures here....
 <img width="1685" height="744" alt="image" src="https://github.com/user-attachments/assets/1502ff50-eba9-4df5-9537-d8a78847cf34" />
+<img width="3060" height="4080" alt="image" src="https://github.com/user-attachments/assets/a2c26156-7c28-4c5a-b84f-731ec5b2855a" />
+
 
 - upclose of the wiring
 
